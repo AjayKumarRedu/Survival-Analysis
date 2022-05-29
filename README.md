@@ -8,8 +8,8 @@ For more information, visit the National Cancer Institute’s https://www.cancer
 
 
 ## DataSet Info
-Variable description
-inst: Institution code
+#Variable description
+#inst: Institution code
 time: Survival time in days
 status: censoring status 0 = censored, 1 = dead
 age: Age in years
